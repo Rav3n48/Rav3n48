@@ -61,14 +61,6 @@ I'm a Computer Engineering student focused on **Python and backend development**
 
 ## Contact
 
-<p>
-  <a href="https://t.me/HES4M88">
-    <img src="assets/telegram.svg" width="24" height="24" alt="Telegram" valign="middle" />
-    Telegram
-  </a>
-  <br />
-  <a href="https://instagram.com/raven_developer">
-    <img src="assets/instagram.svg" width="24" height="24" alt="Instagram" valign="middle" />
-    Instagram
-  </a>
-</p>
+[![Telegram](assets/telegram-badge.svg)](https://t.me/HES4M88)
+
+[![Instagram](assets/instagram-badge.svg)](https://instagram.com/raven_developer)
