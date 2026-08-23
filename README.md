@@ -1,19 +1,17 @@
-<p align="center">
-  <img src="assets/raven.svg" width="80" alt="Raven logo" />
-</p>
-
 <h1 align="center">Raven</h1>
 
 <p align="center">
   <strong>Computer Engineering Student</strong>
-  ·
+  -
   <strong>Python Developer</strong>
 </p>
 
 <p align="center">
   <a href="https://github.com/Rav3n48">GitHub</a>
-  ·
+  -
   <a href="https://t.me/HES4M88">Telegram</a>
+  -
+  <a href="https://instagram.com/raven_developer">Instagram</a>
 </p>
 
 ---
@@ -63,9 +61,11 @@ I'm a Computer Engineering student focused on **Python and backend development**
 
 ## Contact
 
-<p>
-  <a href="https://t.me/HES4M88">
-    <img src="assets/telegram.svg" width="24" height="24" alt="Telegram" />
+  <a href="https://t.me/HES4M88" style="display: flex; align-items: center; margin: 10px 20px;">
+    <img src="assets/telegram.svg" width="24" height="24" alt="Telegram" style="margin-right: 5px;" />
     Telegram
   </a>
-</p>
+  <a href="https://instagram.com/raven_developer" style="display: flex; align-items: center; margin: 10px 20px;">
+    <img src="assets/instagram.svg" width="24" height="24" alt="Instagram" style="margin-right: 5px;" />
+    Instagram
+  </a>
