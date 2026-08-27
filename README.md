@@ -18,7 +18,7 @@
 
 I'm **Hesam**, but in the tech world I go by **Raven**.
 
-I'm a Computer Engineering student focused on **Python and backend development**. I enjoy building software, understanding how systems work under the hood, and exploring technologies that make developers more productive.
+I'm a Computer Engineering student focused on **software engineering** and **backend development**. I enjoy building software, understanding how systems work under the hood, and exploring technologies that make developers more productive.
 
 ## Tech Stack
 
@@ -59,7 +59,7 @@ I'm a Computer Engineering student focused on **Python and backend development**
 - Advanced **JavaScript**
 - **AI and Machine Learning**
 
-## Contact
+## Contact Me
 
 [![Telegram](assets/telegram-badge.svg)](https://t.me/HES4M88)
 
