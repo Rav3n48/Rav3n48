@@ -44,6 +44,8 @@ I'm a Computer Engineering student focused on **software engineering** and **bac
   <img src="assets/linux.svg" width="48" height="48" alt="Linux" />
   <img src="assets/ubuntu.svg" width="48" height="48" alt="Ubuntu" />
   <img src="assets/docker.svg" width="48" height="48" alt="Docker" />
+  <img src="assets/postgresql.svg" width="48" height="48" alt="PostgreSQL" />
+  <img src="assets/sqlite.svg" width="48" height="48" alt="SQLite" />
   <img src="assets/git.svg" width="48" height="48" alt="Git" />
   <img src="assets/github.svg" width="48" height="48" alt="GitHub" />
 </p>
