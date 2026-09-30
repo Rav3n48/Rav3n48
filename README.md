@@ -12,6 +12,8 @@
   <a href="https://t.me/HES4M88">Telegram</a>
   -
   <a href="https://instagram.com/raven_developer">Instagram</a>
+  -
+  <a href="https://www.linkedin.com/in/hesam-ahmadzadeh/">LinkedIn</a>
 </p>
 
 ---
@@ -66,3 +68,5 @@ I'm a Computer Engineering student focused on **software engineering** and **bac
 [![Telegram](assets/telegram-badge.svg)](https://t.me/HES4M88)
 
 [![Instagram](assets/instagram-badge.svg)](https://instagram.com/raven_developer)
+
+[![LinkedIn](assets/linkedin-badge.svg)](https://www.linkedin.com/in/hesam-ahmadzadeh/)
